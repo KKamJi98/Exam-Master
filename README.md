@@ -2,13 +2,14 @@
 문제풀이 service
 
 ## Version 1
-- [ ] 사용자가 텍스트를 사용해 문제에 대한 정보를 제공하면 해당 문제에 대한 답과 해설을 제공 (korean & english)
+> - [ ] 사용자가 텍스트를 사용해 문제에 대한 정보를 제공하면 해당 문제에 대한 답과 해설을 제공 (korean & english)
 
 ## Version 2
-- [ ] 사용자가 그림을 통해 문제에 대한 정보를 제공하면 해당 문제에 대한 답과 해설을 제공 (only english)
+> - [ ] 사용자가 그림을 통해 문제에 대한 정보를 제공하면 해당 문제에 대한 답과 해설을 제공 (only english)
 
 ## Version 3
-- [ ] 사용자가 그림을 통해 문제에 대한 정보를 제공하면 해당 문제에 대한 답과 해설을 제공 후 해당 정보 서버에 저장 (text => korean, english, image => english)
+> - [ ] 사용자가 그림을 통해 문제에 대한 정보를 제공하면 해당 문제에 대한 답과 해설을 제공 후 해당 정보 서버에 저장  
+  (text => korean, english, image => english)
 
 ## Skill Set
 - Backend => Go(gin-gonic)
