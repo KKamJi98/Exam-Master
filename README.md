@@ -50,7 +50,8 @@
 
 ### CI/CD 구성
 
-- [ ] Jenkins Pods로 띄우기
+- [x] Jenkins 구축
+- [ ] ArgoCD 구축
 
 ### Frontend
 
