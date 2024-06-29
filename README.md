@@ -34,22 +34,23 @@
 ## Progress
 
 ### Backend
-- [ ]
+- [ ] ...
 
 ### Frontend
-- [ ]
+- [ ] ...
+
 ### IaC
-- [ ]
+- [ ] ...
 
 ### Deploy
-- [ ]
+- [ ] ...
 
 ### CI/CD
-- [ ]
+- [ ] ...
 
 ### Monitoring
-- [ ]
+- [ ] ...
 
 ### Logging
-- [ ]
+- [ ] ...
 
